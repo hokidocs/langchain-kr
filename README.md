@@ -1,0 +1,2 @@
+# langchain-kr
+langchain practice 
