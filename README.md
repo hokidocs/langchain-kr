@@ -1,2 +1,2 @@
 # langchain-kr
-langchain practice 
+Langchain Practice Repository 
